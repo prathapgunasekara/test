@@ -1,0 +1,14 @@
+E:\Learning\Samples\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+E:\Learning\Samples\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+E:\Learning\Samples\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+E:\Learning\Samples\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+E:\Learning\Samples\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+E:\Learning\Samples\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+E:\Learning\Samples\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Learning\Samples\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+E:\Learning\Samples\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+E:\Learning\Samples\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+E:\Learning\Samples\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+E:\Learning\Samples\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.Data.dll
+E:\Learning\Samples\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.Data.pdb
+E:\Learning\Samples\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CopyComplete

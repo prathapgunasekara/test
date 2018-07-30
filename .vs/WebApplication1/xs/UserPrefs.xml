@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BB883101-D392-4708-9BAA-06136CD0EB69}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi.Service/TodoService.cs">
+    <Files>
+      <File FileName="Data/TodoContext.cs" Line="11" Column="10" />
+      <File FileName="WebApplication1/Controllers/TodoController.cs" Line="70" Column="44" />
+      <File FileName="WebApi.Service/TodoService.cs" Line="27" Column="52" />
+      <File FileName="WebApi.Common/Interfaces/Services/ITodoService.cs" Line="15" Column="27" />
+      <File FileName="WebApi.Common/DTOs/TodoItemDto.cs" Line="1" Column="1" />
+      <File FileName="WebApi.Common/Interfaces/Repositories/ITodoRepository.cs" Line="16" Column="23" />
+      <File FileName="Data/TodoRepository.cs" Line="85" Column="33" />
+      <File FileName="WebApplication1/Startup.cs" Line="28" Column="1" />
+      <File FileName="WebApi.Common/Models/Todoitem.cs" Line="1" Column="1" />
+      <File FileName="WebApi.Common/Mappers/Mappers.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

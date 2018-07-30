@@ -1,0 +1,12 @@
+E:\Learning\Samples\WebApplication1\Data\bin\Debug\netcoreapp2.0\WebApplication1.Data.deps.json
+E:\Learning\Samples\WebApplication1\Data\bin\Debug\netcoreapp2.0\WebApplication1.Data.dll
+E:\Learning\Samples\WebApplication1\Data\obj\Debug\netcoreapp2.0\WebApplication1.Data.csprojAssemblyReference.cache
+E:\Learning\Samples\WebApplication1\Data\obj\Debug\netcoreapp2.0\WebApplication1.Data.csproj.CoreCompileInputs.cache
+E:\Learning\Samples\WebApplication1\Data\obj\Debug\netcoreapp2.0\WebApplication1.Data.AssemblyInfoInputs.cache
+E:\Learning\Samples\WebApplication1\Data\obj\Debug\netcoreapp2.0\WebApplication1.Data.AssemblyInfo.cs
+E:\Learning\Samples\WebApplication1\Data\bin\Debug\netcoreapp2.0\WebApplication1.Data.pdb
+E:\Learning\Samples\WebApplication1\Data\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+E:\Learning\Samples\WebApplication1\Data\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+E:\Learning\Samples\WebApplication1\Data\obj\Debug\netcoreapp2.0\WebApplication1.Data.csproj.CopyComplete
+E:\Learning\Samples\WebApplication1\Data\obj\Debug\netcoreapp2.0\WebApplication1.Data.dll
+E:\Learning\Samples\WebApplication1\Data\obj\Debug\netcoreapp2.0\WebApplication1.Data.pdb
